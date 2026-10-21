@@ -178,16 +178,15 @@ These insights are based on the available project dataset and dashboard analysis
 
 ### Network Performance Overview
 
-https://github.com/DEVIKA200519/jio-network-intelligence-dashboard/blob/main/Screenshot/Dashboard%201.png?raw=true
-
+![Dashboard 1](Screenshot/Dashboard 1.png)
 
 ### Customer Service & Reliability Analysis
 
-![Customer Service & Reliability Analysis](Screenshot/customer_service_reliability_analysis.png)
+![Customer Service & Reliability Analysis](Visualizations/customer_service_reliability_analysis.png)
 
 ### Speed, Circle & Tariff Analysis
 
-![Speed, Circle & Tariff Analysis](Screenshot/speed_circle_tariff_analysis.png)
+![Speed, Circle & Tariff Analysis](Visualizations/speed_circle_tariff_analysis.png)
 
 ## Project Folder Structure
 
