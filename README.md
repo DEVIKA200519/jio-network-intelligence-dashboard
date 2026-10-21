@@ -178,7 +178,7 @@ These insights are based on the available project dataset and dashboard analysis
 
 ### Network Performance Overview
 
-![Network Performance Overview](Screenshot/network_performance_overview.png)
+https://github.com/DEVIKA200519/jio-network-intelligence-dashboard/blob/main/Screenshot/Dashboard%201.png?raw=true
 
 
 ### Customer Service & Reliability Analysis
