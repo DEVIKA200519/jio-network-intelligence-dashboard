@@ -178,7 +178,8 @@ These insights are based on the available project dataset and dashboard analysis
 
 ### Network Performance Overview
 
-"C:\Users\linga\OneDrive\Desktop\DBA_AI Project\SCREENSHORT\Dashboard 1.png"
+![Uploading Dashboard 1.png…]()
+
 
 ### Customer Service & Reliability Analysis
 
