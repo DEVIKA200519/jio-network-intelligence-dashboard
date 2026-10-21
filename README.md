@@ -178,7 +178,7 @@ These insights are based on the available project dataset and dashboard analysis
 
 ### Network Performance Overview
 
-![Dashboard 1](Screenshot/Dashboard 1.png)
+![Dashboard_1](Screenshot/Dashboard_1.png)
 
 ### Customer Service & Reliability Analysis
 
