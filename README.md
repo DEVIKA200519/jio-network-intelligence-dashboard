@@ -178,16 +178,16 @@ These insights are based on the available project dataset and dashboard analysis
 
 ### Network Performance Overview
 
-![Network Performance Overview](Visualizations/network_performance_overview.png)
+![Network Performance Overview](Screenshot/network_performance_overview.png)
 
 
 ### Customer Service & Reliability Analysis
 
-"C:\Users\linga\OneDrive\Desktop\DBA_AI Project\SCREENSHORT\Dashboard 2.png"
+![Customer Service & Reliability Analysis](Screenshot/customer_service_reliability_analysis.png)
 
 ### Speed, Circle & Tariff Analysis
 
-"C:\Users\linga\OneDrive\Desktop\DBA_AI Project\SCREENSHORT\Dashboard 3.png"
+![Speed, Circle & Tariff Analysis](Screenshot/speed_circle_tariff_analysis.png)
 
 ## Project Folder Structure
 
